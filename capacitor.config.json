@@ -1,0 +1,11 @@
+{
+  "appId": "com.comeycalla.app",
+  "appName": "Come y Calla",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "allowNavigation": [
+      "*"
+    ]
+  }
+}
